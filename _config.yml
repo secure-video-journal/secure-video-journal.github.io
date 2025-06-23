@@ -21,7 +21,7 @@
 title: Secure Video Journal Blog
 email: hello@securevideojournal.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Secure Video Journal: private video reflections turned into actionable insights, with bank-grade security.
+  Private video reflections turned into actionable insights, with bank-grade security.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.securevideojournal.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -29,6 +29,9 @@ url: "https://blog.securevideojournal.com" # the base hostname & protocol for yo
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  hide_site_feed_link: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
