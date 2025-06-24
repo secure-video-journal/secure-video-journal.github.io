@@ -33,6 +33,7 @@ plugins:
 
 minima:
   hide_site_feed_link: true
+  google_analytics: G-RZ0RTXS1PK
 
 # Exclude from processing.
 # The following items will not be processed, by default.
