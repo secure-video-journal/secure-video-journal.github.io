@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>What Does It Mean to Be Cloud-Secure? | Secure Video Journal Blog</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="What Does It Mean to Be Cloud-Secure?" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that “in the cloud” can mean “everywhere.” So what turns a plain cloud app into a cloud-secure one?" />
+<meta property="og:description" content="Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that “in the cloud” can mean “everywhere.” So what turns a plain cloud app into a cloud-secure one?" />
+<link rel="canonical" href="http://localhost:4000/security/privacy/2025/07/01/cloud-secure-copy.html" />
+<meta property="og:url" content="http://localhost:4000/security/privacy/2025/07/01/cloud-secure-copy.html" />
+<meta property="og:site_name" content="Secure Video Journal Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-01T09:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="What Does It Mean to Be Cloud-Secure?" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-07-01T09:00:00+01:00","datePublished":"2025-07-01T09:00:00+01:00","description":"Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that “in the cloud” can mean “everywhere.” So what turns a plain cloud app into a cloud-secure one?","headline":"What Does It Mean to Be Cloud-Secure?","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/security/privacy/2025/07/01/cloud-secure-copy.html"},"url":"http://localhost:4000/security/privacy/2025/07/01/cloud-secure-copy.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link id="main-stylesheet" rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Secure Video Journal Blog" /><script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+
+<link href="https://framerusercontent.com/images/ORWTMb7TgDdMniq2SEIs4W9WerU.png" rel="icon" media="(prefers-color-scheme: light)">
+<link href="https://framerusercontent.com/images/ORWTMb7TgDdMniq2SEIs4W9WerU.png" rel="icon" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="https://framerusercontent.com/images/685OuPei2byZS09AH1mBdpVYXng.png">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ0RTXS1PK"></script></head><body><header class="site-header">
+  <div>
+    <a class="header-logo" href="https://securevideojournal.com" rel="home">
+      <img src="/assets/logo.png" alt="Logo">
+      <span>Secure Video Journal</span>
+    </a>
+  </div>
+</header><main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">What Does It Mean to Be Cloud-Secure?</h1>
+    <div class="post-meta">
+      <time class="dt-published" datetime="2025-07-01T09:00:00+01:00" itemprop="datePublished">
+        Jul 1, 2025
+      </time>
+    </div>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that <em>“in the cloud”</em> can mean <em>“everywhere.”</em><br />
+So what turns a plain cloud app into a <strong>cloud-secure</strong> one?</p>
+
+<hr />
+
+<h3 id="1-encryption-at-rest---keys-or-it-didnt-happen">1. Encryption at Rest - Keys or It Didn’t Happen</h3>
+
+<p>The gold-standard is <strong>AES-256</strong> encryption managed by cloud Key-Management Services (KMS).<br />
+If someone grabs a hard-drive in a data-centre, they still see scrambled bytes - no key, no data.</p>
+
+<p><em>How we do it</em> → Server-side encryption (SSE-S3) with dedicated KMS keys; rotation every 12 months.</p>
+
+<hr />
+
+<h3 id="2-encryption-in-transit---tls-13-as-table-stakes">2. Encryption in Transit - TLS 1.3 as Table Stakes</h3>
+
+<p>Every request travels through <strong>TLS 1.3 with HSTS</strong>.<br />
+Older protocols (TLS 1.0/1.1) are disabled; certificate pinning in the mobile PWA blocks “coffee-shop” snooping.</p>
+
+<hr />
+
+<h3 id="3-dont-let-data-roam">3. Don’t Let Data Roam</h3>
+
+<p>APIs talk <strong>only</strong> inside a private VPC; no third-party AI or analytics sees raw entries.<br />
+Logs strip PII and age-out after 30 days.</p>
+
+<hr />
+
+<h3 id="4-authentication--password">4. Authentication ≠ Password</h3>
+
+<ul>
+  <li><strong>2-Factor Auth</strong> by default</li>
+  <li><strong>Geo-lock</strong> on admin logins</li>
+  <li><strong>Session lock-out</strong> after 30 minutes idle</li>
+</ul>
+
+<hr />
+
+<h3 id="5-true-deletion---not-just-soft-delete">5. True Deletion - Not Just “Soft Delete”</h3>
+
+<p>Click <em>Delete Entry</em> → object and transcript wiped from primary + replicated buckets, cryptographic key scheduled for hard delete after 7 days (user can undo within that window).</p>
+
+<hr />
+
+<h3 id="6-the-litmus-test">6. The Litmus Test</h3>
+
+<p>Cloud-secure means: <strong>if the vendor vanished tomorrow, your data would still be unreadable to anyone else.</strong><br />
+Hold every service - ours included - to that bar.</p>
+
+<hr />
+
+<p><em>Next up: a deeper dive into how Secure Video Journal applies these principles clip-by-clip.</em></p>
+
+  </div>
+
+  <a class="u-url" href="/security/privacy/2025/07/01/cloud-secure-copy.html" hidden></a>
+</article>
+
+      </div>
+    </main><link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<footer class="site-footer h-card">
+  <data class="u-url" value="/"></data>
+
+  <div class="wrapper">
+    <div class="social-links">
+      <a href="mailto:hello@securevideojournal.com"><i class="ph ph-at" style="font-size: 30px; color: #888888"></i></a>
+      <a href="https://www.instagram.com/securevideojournal"><i class="ph ph-instagram-logo" style="font-size: 30px; color: #888888"></i></a>
+      <a href="https://www.youtube.com/@SecureVideoJournal"><i class="ph ph-youtube-logo" style="font-size: 30px; color: #888888"></i></a>
+    </div>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p>© 2025 Secure Video Journal</p>
+      </div>
+    </div>
+  </div>
+
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>How Secure Video Journal Encrypts Your Memories | Secure Video Journal Blog</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="How Secure Video Journal Encrypts Your Memories" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Video diaries are as personal as it gets. Here’s the exact path a clip takes from your camera to our encrypted archive—and back only when you ask for it." />
+<meta property="og:description" content="Video diaries are as personal as it gets. Here’s the exact path a clip takes from your camera to our encrypted archive—and back only when you ask for it." />
+<link rel="canonical" href="http://localhost:4000/security/privacy/2025/07/02/encrypted-memories.html" />
+<meta property="og:url" content="http://localhost:4000/security/privacy/2025/07/02/encrypted-memories.html" />
+<meta property="og:site_name" content="Secure Video Journal Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-02T09:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How Secure Video Journal Encrypts Your Memories" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-07-02T09:00:00+01:00","datePublished":"2025-07-02T09:00:00+01:00","description":"Video diaries are as personal as it gets. Here’s the exact path a clip takes from your camera to our encrypted archive—and back only when you ask for it.","headline":"How Secure Video Journal Encrypts Your Memories","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/security/privacy/2025/07/02/encrypted-memories.html"},"url":"http://localhost:4000/security/privacy/2025/07/02/encrypted-memories.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link id="main-stylesheet" rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Secure Video Journal Blog" /><script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+
+<link href="https://framerusercontent.com/images/ORWTMb7TgDdMniq2SEIs4W9WerU.png" rel="icon" media="(prefers-color-scheme: light)">
+<link href="https://framerusercontent.com/images/ORWTMb7TgDdMniq2SEIs4W9WerU.png" rel="icon" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="https://framerusercontent.com/images/685OuPei2byZS09AH1mBdpVYXng.png">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RZ0RTXS1PK"></script></head><body><header class="site-header">
+  <div>
+    <a class="header-logo" href="https://securevideojournal.com" rel="home">
+      <img src="/assets/logo.png" alt="Logo">
+      <span>Secure Video Journal</span>
+    </a>
+  </div>
+</header><main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">How Secure Video Journal Encrypts Your Memories</h1>
+    <div class="post-meta">
+      <time class="dt-published" datetime="2025-07-02T09:00:00+01:00" itemprop="datePublished">
+        Jul 2, 2025
+      </time>
+    </div>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>Video diaries are as personal as it gets.<br />
+Here’s the exact path a clip takes from your camera to our encrypted archive—and back only when you ask for it.</p>
+
+<hr />
+
+<h3 id="1-capture--encrypted-upload">1. Capture → Encrypted Upload</h3>
+
+<ol>
+  <li><strong>Browser → S3</strong> over TLS 1.3 (multipart, resumable).</li>
+  <li>Upload lands in an <strong>S3 bucket with Server-Side Encryption</strong> (AES-256, SSE-KMS).</li>
+  <li>A one-time <strong>signed URL</strong> prevents anyone replaying the POST.</li>
+</ol>
+
+<p><em>(diagram placeholder)</em><br />
+<!-- replace /assets/img/ingest-arch.png --></p>
+
+<hr />
+
+<h3 id="2-transcription-in-a-sealed-room">2. Transcription in a Sealed Room</h3>
+
+<ul>
+  <li>Clips are pulled into an <strong>isolated processing VPC</strong>—no public IPs.</li>
+  <li>A transcoder strips metadata; frames live only in RAM.</li>
+  <li>Transcripts stay on our subnet; nothing goes to third-party LLM endpoints.</li>
+</ul>
+
+<hr />
+
+<h3 id="3-cue-extraction-pipeline">3. Cue Extraction Pipeline</h3>
+
+<ul>
+  <li><strong>Whisper-large</strong> (fine-tuned) for verbals → token timestamps</li>
+  <li><strong>MediaPipe Face &amp; Pose</strong> for micro-expressions + posture vectors</li>
+  <li>Aggregated cues stored as <strong>JSON blobs</strong>—no raw video leaves the node.</li>
+</ul>
+
+<hr />
+
+<h3 id="4-storage--key-management">4. Storage &amp; Key Management</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Layer</th>
+      <th>Key type</th>
+      <th>Rotation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>S3 objects</td>
+      <td>AWS KMS CMK</td>
+      <td>12 months</td>
+    </tr>
+    <tr>
+      <td>Transcripts</td>
+      <td>Same CMK, separate prefix</td>
+      <td>12 months</td>
+    </tr>
+    <tr>
+      <td>Derived cues</td>
+      <td>Client-side AES-GCM (future Zero-Knowledge tier)</td>
+      <td>User-controlled</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Deleting an entry <strong>shreds the object + cues + transcript</strong> and queues the CMK for later key-material deletion (7-day safety window).</p>
+
+<hr />
+
+<h3 id="5-access-control">5. Access Control</h3>
+
+<ul>
+  <li>Each clip tagged with the user’s Cognito ID → IAM policy denies <em>any</em> role outside that ID.</li>
+  <li>Admin console can read <strong>metadata only</strong>, never content.</li>
+</ul>
+
+<hr />
+
+<h3 id="6-sharingif-you-want-to">6. Sharing—If You Want To</h3>
+
+<p>Generate a <strong>48-hour, view-only link</strong> → client fetches a short-lived decryption token → plays in sandboxed player (screenshots blocked by CSS + JavaScript).</p>
+
+<hr />
+
+<h3 id="7-coming-soon-passphrase-protected-clips">7. Coming Soon: Passphrase-Protected Clips</h3>
+
+<p>We’re testing optional <strong>client-side AES-GCM</strong>:<br />
+<em>Encrypt first, upload second.</em> Our servers would see only ciphertext; cue extraction would run in a secure enclave.</p>
+
+<hr />
+
+<p><strong>Bottom line:</strong> every diary stays encrypted by default, analysed inside a sealed room, and leaves our storage only when <em>you</em> export it.</p>
+
+<hr />
+
+<p>Questions? Ping us anytime or read the full technical white-paper (<a href="https://securevideojournal.com/whitepaper.pdf">https://securevideojournal.com/whitepaper.pdf</a>).</p>
+
+
+  </div>
+
+  <a class="u-url" href="/security/privacy/2025/07/02/encrypted-memories.html" hidden></a>
+</article>
+
+      </div>
+    </main><link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<footer class="site-footer h-card">
+  <data class="u-url" value="/"></data>
+
+  <div class="wrapper">
+    <div class="social-links">
+      <a href="mailto:hello@securevideojournal.com"><i class="ph ph-at" style="font-size: 30px; color: #888888"></i></a>
+      <a href="https://www.instagram.com/securevideojournal"><i class="ph ph-instagram-logo" style="font-size: 30px; color: #888888"></i></a>
+      <a href="https://www.youtube.com/@SecureVideoJournal"><i class="ph ph-youtube-logo" style="font-size: 30px; color: #888888"></i></a>
+    </div>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p>© 2025 Secure Video Journal</p>
+      </div>
+    </div>
+  </div>
+
+</footer>
+</body>
+
+</html>
