@@ -8,12 +8,14 @@ categories: security privacy
 Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that *“in the cloud”* can mean *“everywhere.”*  
 So what turns a plain cloud app into a **cloud-secure** one?
 
+For us, it starts with a clear principle: **your private data never leaves our infrastructure, and no third party ever sees it.**
+
 ---
 
-### 1. Encryption at Rest - Keys or It Didn’t Happen  
+### 1. Encryption at Rest: Keys or It Didn’t Happen  
 
 The gold-standard is **AES-256** encryption managed by cloud Key-Management Services (KMS).  
-If someone grabs a hard-drive in a data-centre, they still see scrambled bytes - no key, no data.
+If someone grabs a hard-drive in a data-centre, they still see scrambled bytes — no key, no data.
 
 *How we do it* → Server-side encryption (SSE-S3) with dedicated KMS keys; rotation every 12 months.
 
@@ -28,8 +30,11 @@ Older protocols (TLS 1.0/1.1) are disabled; certificate pinning in the mobile PW
 
 ### 3. Don’t Let Data Roam  
 
-APIs talk **only** inside a private VPC; no third-party AI or analytics sees raw entries.  
-Logs strip PII and age-out after 30 days.
+Privacy isn't just about encryption — it's about **control**.  
+We never send raw or derived user content (like transcripts, mood scores, or embeddings) to third-party AI services, analytics platforms, or vector databases.  
+
+APIs communicate **only** within a private VPC; model inference and analysis run entirely on our own infrastructure or directly in the browser.  
+Logs strip PII and age out after 30 days. No external eyes. No silent data leaks.
 
 ---
 
@@ -50,6 +55,8 @@ Click *Delete Entry* → object and transcript wiped from primary + replicated b
 ### 6. The Litmus Test  
 
 Cloud-secure means: **if the vendor vanished tomorrow, your data would still be unreadable to anyone else.**  
+No AI APIs holding embeddings. No analytics firms tracking behavior. Just secure storage you control.
+
 Hold every service - ours included - to that bar.
 
 ---
