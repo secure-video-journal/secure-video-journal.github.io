@@ -51,12 +51,14 @@
     <p>Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that <em>“in the cloud”</em> can mean <em>“everywhere.”</em><br />
 So what turns a plain cloud app into a <strong>cloud-secure</strong> one?</p>
 
+<p>For us, it starts with a clear principle: <strong>your private data never leaves our infrastructure, and no third party ever sees it.</strong></p>
+
 <hr />
 
-<h3 id="1-encryption-at-rest---keys-or-it-didnt-happen">1. Encryption at Rest - Keys or It Didn’t Happen</h3>
+<h3 id="1-encryption-at-rest-keys-or-it-didnt-happen">1. Encryption at Rest: Keys or It Didn’t Happen</h3>
 
 <p>The gold-standard is <strong>AES-256</strong> encryption managed by cloud Key-Management Services (KMS).<br />
-If someone grabs a hard-drive in a data-centre, they still see scrambled bytes - no key, no data.</p>
+If someone grabs a hard-drive in a data-centre, they still see scrambled bytes — no key, no data.</p>
 
 <p><em>How we do it</em> → Server-side encryption (SSE-S3) with dedicated KMS keys; rotation every 12 months.</p>
 
@@ -71,8 +73,11 @@ Older protocols (TLS 1.0/1.1) are disabled; certificate pinning in the mobile PW
 
 <h3 id="3-dont-let-data-roam">3. Don’t Let Data Roam</h3>
 
-<p>APIs talk <strong>only</strong> inside a private VPC; no third-party AI or analytics sees raw entries.<br />
-Logs strip PII and age-out after 30 days.</p>
+<p>Privacy isn’t just about encryption — it’s about <strong>control</strong>.<br />
+We never send raw or derived user content (like transcripts, mood scores, or embeddings) to third-party AI services, analytics platforms, or vector databases.</p>
+
+<p>APIs communicate <strong>only</strong> within a private VPC; model inference and analysis run entirely on our own infrastructure or directly in the browser.<br />
+Logs strip PII and age out after 30 days. No external eyes. No silent data leaks.</p>
 
 <hr />
 
@@ -95,7 +100,9 @@ Logs strip PII and age-out after 30 days.</p>
 <h3 id="6-the-litmus-test">6. The Litmus Test</h3>
 
 <p>Cloud-secure means: <strong>if the vendor vanished tomorrow, your data would still be unreadable to anyone else.</strong><br />
-Hold every service - ours included - to that bar.</p>
+No AI APIs holding embeddings. No analytics firms tracking behavior. Just secure storage you control.</p>
+
+<p>Hold every service - ours included - to that bar.</p>
 
 <hr />
 
