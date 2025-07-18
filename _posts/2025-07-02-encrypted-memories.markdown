@@ -3,6 +3,7 @@ layout: post
 title:  "How Secure Video Journal Encrypts Your Memories"
 date:   2025-07-02 09:00:00 +0100
 categories: security privacy
+published: false
 ---
 
 Video diaries are as personal as it gets.  

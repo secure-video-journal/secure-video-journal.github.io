@@ -3,6 +3,7 @@ layout: post
 title:  "Video Beats Text for Self-Reflection"
 date:   2025-06-14 10:00:00 +0100
 categories: journaling self-growth
+published: false
 ---
 
 Typed words capture **what** you said; video captures **how** you showed up.
