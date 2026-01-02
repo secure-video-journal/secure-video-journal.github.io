@@ -4,6 +4,8 @@ title:  "Some Things Only Make Sense Later"
 date:   2025-05-01 10:00:00 +0100
 categories: journaling self-growth
 published: true
+description: "Why life's most important moments often don't make sense until we look back. The power of revisiting your past self."
+# image: /assets/img/some-things-later.png
 ---
 
 <!--

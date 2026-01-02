@@ -4,6 +4,8 @@ title:  "What Does It Mean to Be Cloud-Secure?"
 date:   2025-07-01 09:00:00 +0100
 categories: security privacy
 published: false
+description: "What separates truly secure cloud storage from leaving your diary on a park bench. Our approach to keeping your data private."
+# image: /assets/img/cloud-secure.png
 ---
 
 Cloud storage shouldn’t feel like leaving your diary on a park bench. Yet headlines keep reminding us that *“in the cloud”* can mean *“everywhere.”*  

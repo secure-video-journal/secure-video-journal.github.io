@@ -4,6 +4,8 @@ title:  "How Secure Video Journal Encrypts Your Memories"
 date:   2025-07-02 09:00:00 +0100
 categories: security privacy
 published: false
+description: "A technical walkthrough of how your video diary travels from camera to encrypted archive—and back only when you ask."
+# image: /assets/img/encrypted-memories.png
 ---
 
 Video diaries are as personal as it gets.  

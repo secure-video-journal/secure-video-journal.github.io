@@ -4,6 +4,8 @@ title:  "Video Beats Text for Self-Reflection"
 date:   2025-06-14 10:00:00 +0100
 categories: journaling self-growth
 published: false
+description: "Why video journals capture what text can't—tone, body language, and the full emotional picture of your reflections."
+# image: /assets/img/video-vs-text.png
 ---
 
 Typed words capture **what** you said; video captures **how** you showed up.
