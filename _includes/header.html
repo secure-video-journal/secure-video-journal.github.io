@@ -3,9 +3,9 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
-    <a class="header-logo" href="https://securevideojournal.com" rel="home">
+    <a class="header-logo" href="https://innerarc.me" rel="home">
       <img src="{{ '/assets/logo.png' | relative_url }}" alt="Logo">
-      <span>Secure Video Journal</span>
+      <span>Inner Arc</span>
     </a>
 
     {%- unless page_titles == empty %}
