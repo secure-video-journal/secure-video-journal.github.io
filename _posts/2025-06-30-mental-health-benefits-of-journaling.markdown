@@ -4,6 +4,8 @@ title:  "The Mental Health Benefits of Journaling"
 date:   2025-06-30 16:13:12 +0100
 categories: journaling mental-health
 published: false
+description: "Research-backed evidence on how journaling reduces anxiety, lowers cortisol, and helps your brain sort signal from noise."
+# image: /assets/img/mental-health-journaling.png
 ---
 
 Whether you jot notes in a notebook or talk into your phone, **structured reflection helps the brain sort signal from noise**. Randomised trials show consistent drops in cortisol and anxiety when people journal for just a few minutes a day.<sup>[1](https://www.apa.org/monitor/jun02/writing) [2](https://pubmed.ncbi.nlm.nih.gov/30530460/)</sup>

@@ -18,18 +18,32 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Secure Video Journal Blog
-email: hello@securevideojournal.com
+title: Inner Arc Blog
+email: hello@innerarc.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Private video reflections turned into actionable insights, with bank-grade security.
+  Private audio & video journaling for self-reflection.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.securevideojournal.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.innerarc.me" # the base hostname & protocol for your site, e.g. http://example.com
 destination: docs
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings (fill these out when you have social accounts)
+# twitter:
+#   username: yourhandle
+#   card: summary_large_image
+# social:
+#   name: Inner Arc
+#   links:
+#     - https://twitter.com/yourhandle
+#     - https://www.linkedin.com/company/yourcompany
+author: Inner Arc
+logo: /assets/logo.png
 
 minima:
   hide_site_feed_link: true

@@ -4,6 +4,8 @@ title:  "Why Keep a Journal? Mood, Memory, Momentum."
 date:   2025-06-01 10:00:00 +0100
 categories: journaling self-growth
 published: false
+description: "How just five minutes of daily journaling can lift your mood, sharpen memory, and help you hit your goals faster."
+# image: /assets/img/why-journal.png
 ---
 
 A tiny daily check-in can **lift mood, sharpen memory, and chart your growth**.  

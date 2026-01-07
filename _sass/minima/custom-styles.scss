@@ -8,6 +8,24 @@
   width: auto;
 }
 
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.header-blog-link {
+  color: #888;
+  font-size: 0.9rem;
+  text-decoration: none;
+  margin-right: 15px;
+
+  &:hover {
+    color: #555;
+  }
+}
+
 .header-logo {
   display: flex;
   align-items: center;
@@ -60,4 +78,29 @@
 
 .social-links a:hover {
   text-decoration: none;
+}
+
+.post-subtitle {
+  font-size: 1.25rem;
+  color: #666;
+  margin-top: -0.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.post-footer-nav {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #eee;
+
+  a {
+    color: #888;
+    font-size: 0.95rem;
+    text-decoration: none;
+
+    &:hover {
+      color: #555;
+    }
+  }
 }
