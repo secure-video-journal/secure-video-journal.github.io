@@ -34,9 +34,8 @@ plugins:
   - jekyll-seo-tag
 
 # SEO settings (fill these out when you have social accounts)
-# twitter:
-#   username: yourhandle
-#   card: summary_large_image
+twitter:
+  card: summary_large_image
 # social:
 #   name: Inner Arc
 #   links:
