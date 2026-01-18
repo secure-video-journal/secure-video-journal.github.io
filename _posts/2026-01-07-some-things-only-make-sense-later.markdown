@@ -13,11 +13,9 @@ image: /assets/img/some-things-only-make-sense-later.jpg
 
 ![Abstract image suggesting depth, time, and perspective](/assets/img/some-things-only-make-sense-later.jpg)
 
-Journaling helps in many ways. It can bring immediate clarity, support goal-setting, regulate emotions, and make experiences easier to hold in the moment.
-
-This essay focuses on one particular dimension of reflection - what happens **after time has passed**. Not because it’s the only way journaling helps, but because it’s one that’s often overlooked.
-
 Journaling helps in many ways, from memory and goal-setting to stress reduction and emotional clarity. But what ties these together isn’t *just* the act of writing itself. It’s also what happens when reflection is allowed to accumulate over time.
+
+This essay focuses on one particular dimension of reflection — what happens **after time has passed**. Not because it’s the only way journaling helps, but because it’s one that’s often overlooked.
 
 You can see this most clearly in moments that don’t feel important when they happen, or that feel actively painful. These moments often feel confusing, disappointing, overwhelming, or unfinished. At the time, we don’t yet have the perspective to understand them fully. We only have the emotion of being inside them.
 
