@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Inner Arc Blog
+title: InnerArc Blog
 email: hello@innerarc.me
 description: >- # this means to ignore newlines until "baseurl:"
   Private audio & video journaling for self-reflection.
@@ -37,11 +37,11 @@ plugins:
 twitter:
   card: summary_large_image
 # social:
-#   name: Inner Arc
+#   name: InnerArc
 #   links:
 #     - https://twitter.com/yourhandle
 #     - https://www.linkedin.com/company/yourcompany
-author: Inner Arc
+author: InnerArc
 logo: /assets/logo.png
 
 minima:
