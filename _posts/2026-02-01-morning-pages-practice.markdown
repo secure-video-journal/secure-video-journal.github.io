@@ -87,7 +87,7 @@ Think of them as clearing the surface, not digging for meaning.
 
 If you want to explore those approaches further:
 <!-- - [Why Keep a Journal?](https://blog.innerarc.me/reflection/2026/01/24/why-keep-a-journal.html) -->
-<!-- - [Memory inventory: a practice](https://blog.innerarc.me/reflection/2026/01/07/memory-inventory.html) -->
+- [Memory inventory: a practice](https://blog.innerarc.me/reflection/journaling/2026/02/09/memory-inventory-practice.html)
 - [Some Things Only Make Sense Later](https://blog.innerarc.me/reflection/2026/01/07/some-things-only-make-sense-later.html)
 
 ---
