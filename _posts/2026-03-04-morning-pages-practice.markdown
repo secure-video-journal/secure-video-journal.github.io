@@ -2,7 +2,7 @@
 layout: post
 title: "Morning Pages: a practice"
 subtitle: Clearing mental clutter by getting it out of your head
-date: 2026-02-01 10:00:00 +0100
+date: 2026-03-04 10:00:00 +0100
 categories: reflection journaling
 published: true
 description: "A light, unstructured journaling practice for clearing mental clutter by writing or speaking freely without goals, structure, or conclusions."
