@@ -2,9 +2,9 @@
 layout: post
 title: "Memory Inventory: a practice"
 subtitle: Using past evidence to recalibrate how you see yourself
-date: 2026-04-09 10:00:00 +0100
+date: 2026-06-07 10:00:00 +0100
 categories: reflection journaling
-published: false
+published: true
 description: "A practical journaling exercise for revisiting past memories to challenge negative self-beliefs and build a more accurate self-picture."
 ---
 
