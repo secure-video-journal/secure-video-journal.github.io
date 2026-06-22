@@ -9,6 +9,8 @@ description: "Why people keep journals, how journaling supports mood, memory, an
 image: /assets/img/why-journal.jpg
 ---
 
+![Abstract image suggesting entries connected over time](/assets/img/why-journal.jpg)
+
 People keep journals because they help.
 
 They help people notice what’s easy to overlook, make sense of experiences as they unfold, and keep hold of things that would otherwise be lost. To time. To distraction. For many, they also become a way to notice patterns, test changes, and support personal transformation over time.
