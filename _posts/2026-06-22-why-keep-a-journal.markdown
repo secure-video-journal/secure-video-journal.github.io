@@ -64,21 +64,6 @@ One way people do this is by periodically taking stock of past entries to notice
 If you’re interested in that approach, you can read more here:  
 [Memory inventory: a practice](https://blog.innerarc.me/reflection/journaling/2026/06/07/memory-inventory-practice.html)
 
-<!-- ### *Working things out by putting them somewhere*
-
-Another reason people journal is simpler: some thoughts don’t resolve until they’ve been externalised.
-
-Keeping everything internal forces you to carry uncertainty, unfinished ideas, and competing interpretations all at once. Writing or speaking about something moves it out of your head and into a form you can return to. That shift alone often changes how manageable a problem feels.
-
-Some practices are built entirely around this idea. Morning pages, for example, treat journaling as a way to unload unfinished thoughts without trying to shape or resolve them. You can read more about that approach here:  
-[Morning pages: a practice](https://blog.innerarc.me/reflection/2026/01/07/morning-pages.html)
-
-Over time, this becomes a way of working things out without needing immediate conclusions. You record what you know, what you don’t, and what still feels unresolved. When you come back later, the context has changed. New information has arrived. The question itself may look different.
-
-This is why journaling often helps with clarity, not because it produces answers on demand, but because it preserves questions long enough for understanding to catch up.
-
-If this resonates, you might also like: [Some Things Only Make Sense Later](https://blog.innerarc.me/reflection/2026/01/07/some-things-only-make-sense-later.html) -->
-
 ### *Why some people prefer audio or video journaling*
 
 Writing works well for many people. For others, it doesn’t.
@@ -92,6 +77,8 @@ Audio and video aren’t better than writing. They’re simply another way of me
 ### *Getting started*
 
 There’s no correct way to begin journaling, and no minimum amount of time that makes it “count.”
+
+Some people prefer structured approaches. Others simply record whatever feels important in the moment. Practices like [Morning Pages⁠](https://blog.innerarc.me/reflection/journaling/2026/06/07/memory-inventory-practice.html)⁠￼focus on clearing space for thoughts without trying to organise or improve them.
 
 If you want a simple place to start, you could try this:
 - Pick a moment that still feels unfinished.
