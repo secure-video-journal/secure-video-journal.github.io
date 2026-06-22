@@ -6,7 +6,7 @@ date:   2026-06-22 10:00:00 +0100
 categories: journaling self-growth
 published: true
 description: "Why people keep journals, how journaling supports mood, memory, and clarity, and why audio or video journaling works better."
-# image: /assets/img/why-journal.png
+image: /assets/img/why-journal.jpg
 ---
 
 People keep journals because they help.
@@ -81,7 +81,7 @@ If this resonates, you might also like: [Some Things Only Make Sense Later](http
 
 Writing works well for many people. For others, it doesn’t.
 
-Some people think more clearly when they speak. They find it easier to talk through what happened than to shape it into sentences on a page. Audio or video journaling, whether recorded digitally or online, makes room for that. It captures not just what you say, but how you say it: pauses, hesitation, certainty, changes in tone.
+Some people think more clearly when they speak. They find it easier to talk through what happened than to shape it into sentences on a page. Audio or video journaling makes room for that. It captures not just what you say, but how you say it: pauses, hesitation, certainty, changes in tone.
 
 When you return to an entry later, those cues can matter. They often reveal things that weren’t obvious at the time, especially when compared across weeks or months. Not as data to optimise, but as context you don’t get from words alone.
 
@@ -98,4 +98,4 @@ If you want a simple place to start, you could try this:
 
 The point isn’t to produce insight. It’s to give the moment somewhere to go. Sometimes that’s enough on its own. Other times, it leaves a trace you can return to later, when distance has changed how the moment feels.
 
-If you want a private place to try this, [InnerArc](https://innerarc.me) is one option designed around reflection over time.
+If you’d like a private place to record reflections and notice patterns over time, [InnerArc](https://innerarc.me) was built for exactly that.
