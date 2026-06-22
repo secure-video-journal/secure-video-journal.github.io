@@ -2,9 +2,9 @@
 layout: post
 title:  "Why Keep a Journal?"
 subtitle: Mood, Memory, Momentum.
-date:   2026-05-19 10:00:00 +0100
+date:   2026-06-22 10:00:00 +0100
 categories: journaling self-growth
-published: false
+published: true
 description: "Why people keep journals, how journaling supports mood, memory, and clarity, and why audio or video journaling works better."
 # image: /assets/img/why-journal.png
 ---
@@ -27,11 +27,11 @@ Journaling doesn’t make difficult emotions disappear. Writing or speaking abou
 
 What it can do is give those feelings somewhere to land.
 
-When something feels overwhelming, confusing, or unfinished, holding it entirely in your head can add to the pressure. Putting it into words—spoken or written—can create a small amount of distance. Not enough to make the feeling go away, but often enough to make it more manageable.
+When something feels overwhelming, confusing, or unfinished, holding it entirely in your head can add to the pressure. Putting it into words—spoken or written—can create a small amount of distance.
 
 For some people, that distance brings relief. For others, it simply makes the experience easier to sit with. Either way, the value isn’t in fixing the feeling, but in not having to carry it alone.
 
-Over time, returning to these moments can change how they’re held. Not because they’ve been reframed or improved, but because they’ve been given space rather than pushed aside.
+Over time, returning to these moments can change how they’re held because they’ve been given space rather than pushed aside.
 
 ### *Remembering what actually matters*
 
@@ -39,11 +39,11 @@ One reason people keep journals is memory. Not factual recall, but personal cont
 
 Days compress quickly in hindsight. Weeks blur. What tends to survive is the outcome, not the process that led there. Journaling slows that loss down. It captures what you noticed, what you were unsure about, and what felt important enough to say at the time.
 
-When you return to entries later, you’re not just remembering events. You’re seeing what your attention was drawn to, repeatedly or unexpectedly. Over time, that creates a clearer picture of what actually shapes your days, rather than what you assume does.
+When you return to entries later, you’re not just remembering events, you’re seeing what your attention was drawn to, repeatedly or unexpectedly. Over time, that creates a clearer picture of what actually shapes your days, rather than what you assume does.
 
-This is often where people first notice patterns forming: recurring frustrations, recurring motivations, familiar trade-offs. Not because they were searching for insight, but because the record makes those repetitions hard to ignore.
+This is often where people first notice patterns forming: recurring frustrations, recurring motivations, familiar trade-offs. The record makes those repetitions hard to ignore.
 
-### *Using reflection to adjust, not optimise*
+### *Using reflection to adjust*
 
 Journaling can become a self-improvement loop, but not in the way most productivity advice describes it.
 
@@ -57,12 +57,12 @@ Looking back over entries makes it easier to answer practical questions:
 
 Those answers rarely arrive in the moment. They tend to appear only after enough time has passed for cause and effect to separate. In that sense, journaling supports improvement less by motivation and more by feedback. It shows you what your lived experience is actually teaching you, whether you intended it or not. That space makes it easier to decide how to act differently next time, without forcing conclusions in the moment.
 
-One way people do this is by periodically taking stock of past entries, not to judge themselves, but to notice what their own experience keeps pointing toward. Practices like a memory inventory use journaling as evidence, helping people recalibrate how they see themselves based on what they’ve actually lived.
+One way people do this is by periodically taking stock of past entries to notice what their own experience keeps pointing toward. Practices like a memory inventory use journaling as evidence, helping people recalibrate how they see themselves based on what they’ve actually lived.
 
 If you’re interested in that approach, you can read more here:  
-[Memory inventory: a practice](https://blog.innerarc.me/reflection/2026/01/07/memory-inventory.html)
+[Memory inventory: a practice](https://blog.innerarc.me/reflection/journaling/2026/06/07/memory-inventory-practice.html)
 
-### *Working things out by putting them somewhere*
+<!-- ### *Working things out by putting them somewhere*
 
 Another reason people journal is simpler: some thoughts don’t resolve until they’ve been externalised.
 
@@ -75,7 +75,7 @@ Over time, this becomes a way of working things out without needing immediate co
 
 This is why journaling often helps with clarity, not because it produces answers on demand, but because it preserves questions long enough for understanding to catch up.
 
-If this resonates, you might also like: [Some Things Only Make Sense Later](https://blog.innerarc.me/reflection/2026/01/07/some-things-only-make-sense-later.html)
+If this resonates, you might also like: [Some Things Only Make Sense Later](https://blog.innerarc.me/reflection/2026/01/07/some-things-only-make-sense-later.html) -->
 
 ### *Why some people prefer audio or video journaling*
 
