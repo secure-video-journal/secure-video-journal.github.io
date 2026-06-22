@@ -78,7 +78,7 @@ Audio and video aren’t better than writing. They’re simply another way of me
 
 There’s no correct way to begin journaling, and no minimum amount of time that makes it “count.”
 
-Some people prefer structured approaches. Others simply record whatever feels important in the moment. Practices like [Morning Pages⁠](https://blog.innerarc.me/reflection/journaling/2026/06/07/memory-inventory-practice.html)⁠￼focus on clearing space for thoughts without trying to organise or improve them.
+Some people prefer structured approaches. Others simply record whatever feels important in the moment. Practices like [Morning Pages⁠](https://blog.innerarc.me/reflection/journaling/2026/06/07/memory-inventory-practice.html)⁠￼ focus on clearing space for thoughts without trying to organise or improve them.
 
 If you want a simple place to start, you could try this:
 - Pick a moment that still feels unfinished.
