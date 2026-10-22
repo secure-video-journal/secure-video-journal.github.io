@@ -34,14 +34,15 @@ plugins:
   - jekyll-seo-tag
 
 # SEO settings (fill these out when you have social accounts)
-twitter:
-  card: summary_large_image
-# social:
-#   name: InnerArc
-#   links:
-#     - https://twitter.com/yourhandle
-#     - https://www.linkedin.com/company/yourcompany
-author: InnerArc
+social:
+  name: InnerArc
+  links:
+    - https://innerarc.me/
+    - https://www.linkedin.com/company/innerarc
+author:
+  name: InnerArc
+  type: Organization
+  url: https://innerarc.me/
 logo: /assets/logo.png
 
 minima:
