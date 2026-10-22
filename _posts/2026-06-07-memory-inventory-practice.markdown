@@ -116,7 +116,7 @@ Think of it as a periodic recalibration, not a daily habit.
 
 If you’re interested in how revisiting past moments can change perspective over time, you might also like:
 
-<!-- - [Why Keep a Journal?](https://blog.innerarc.me/reflection/2026/01/24/why-keep-a-journal.html) -->
+- [Why Keep a Journal?](https://blog.innerarc.me/journaling/self-growth/2026/06/22/why-keep-a-journal.html)
 - [Some Things Only Make Sense Later](https://blog.innerarc.me/reflection/2026/01/07/some-things-only-make-sense-later.html)
 
 If you want a private place to try this practice, [InnerArc](https://innerarc.me) is one option designed around reflection over time.
