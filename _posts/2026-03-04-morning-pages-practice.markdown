@@ -43,9 +43,9 @@ Then say whatever is on your mind. It might be the jobs for the day, how you sle
 
 The point is to get those thoughts out of your head so you can start the day fresh, without dwelling on things you didn't realise were in there.
 
-There's research behind that feeling. Psychologists E. J. Masicampo and Roy Baumeister found that unfinished tasks keep pulling at your attention until you make a plan for them, and that simply writing the plan down was enough to quiet them (*Journal of Personality and Social Psychology*, 2011). That's the Slack messages and the emails from my first morning: once they're out of your head, they stop circling.
+There's research behind that feeling. Psychologists E. J. Masicampo and Roy Baumeister [found](https://pubmed.ncbi.nlm.nih.gov/21688924/) that unfinished tasks keep pulling at your attention until you make a plan for them, and that simply writing the plan down was enough to quiet them (*Journal of Personality and Social Psychology*, 2011). That's the Slack messages and the emails from my first morning: once they're out of your head, they stop circling.
 
-Speaking counts too. Most of the research on putting feelings into words uses writing, but a 1994 study by Brian Esterling and colleagues compared writing with talking into a tape recorder, and the people who talked showed at least as much benefit (*Journal of Consulting and Clinical Psychology*). So if a pen is what stops you, a voice recorder is a fair swap.
+Speaking counts too. Most of the research on putting feelings into words uses writing, but a [1994 study by Brian Esterling and colleagues](https://pubmed.ncbi.nlm.nih.gov/8034815/) compared writing with talking into a tape recorder, and the people who talked showed at least as much benefit (*Journal of Consulting and Clinical Psychology*). So if a pen is what stops you, a voice recorder is a fair swap.
 
 ---
 
@@ -54,3 +54,9 @@ Tomorrow morning, before you look at your messages, open the recorder on your ph
 If you'd like a private place to keep those recordings, you can [start free on the web](https://innerarc.me/join) or [get the app](https://innerarc.me/app). Your entries are never used to train AI.
 
 More to read: [Why keep a journal?]({% post_url 2026-06-22-why-keep-a-journal %}) or [Some things only make sense later]({% post_url 2026-01-07-some-things-only-make-sense-later %}).
+
+### Sources
+
+- Julia Cameron, *The Artist's Way* (1992).
+- Masicampo, E. J. and Baumeister, R. F. (2011). Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. *Journal of Personality and Social Psychology*, 101(4), 667-683. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21688924/)
+- Esterling, B. A., Antoni, M. H., Fletcher, M. A., Margulies, S. and Schneiderman, N. (1994). Emotional disclosure through writing or speaking modulates latent Epstein-Barr virus antibody titers. *Journal of Consulting and Clinical Psychology*, 62(1), 130-140. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8034815/)
