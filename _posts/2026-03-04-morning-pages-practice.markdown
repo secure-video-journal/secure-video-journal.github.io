@@ -9,7 +9,7 @@ published: true
 description: "Yes, you can do morning pages out loud. Speaking them drops the urge to make the page look good, so the thoughts come out more easily."
 ---
 
-Yes, you can do morning pages out loud. When I started talking my morning pages instead of writing them, the filter of having to come up with something with quality kind of dropped away, and it went a lot easier.
+Yes, you can do morning pages out loud. When I started talking my morning pages instead of writing them, the filter of having to come up with something with quality dropped away, and it went a lot easier.
 
 ## Where morning pages come from
 
@@ -23,7 +23,7 @@ I tried it written in my journal, which is a lovely Japanese lined paper noteboo
 
 I did it one whole morning. I sat in my kitchen at the dining table before the kids woke up for school, with my hot coffee by my side, and gave it a go.
 
-To be honest, I kind of struggled. I understand the concept, and it's very similar to automatic drawing in that you're just not supposed to think. You're supposed to let the thoughts flow out of you and capture whatever comes out.
+To be honest, I struggled. I understand the concept, and it's very similar to automatic drawing in that you're just not supposed to think. You're supposed to let the thoughts flow out of you and capture whatever comes out.
 
 But the practice of it was really hard, because when I'm writing I tend to really think about what I'm writing. I consciously make an effort to put pen to paper with something that has some quality. So I couldn't really get the automatic style of writing, the flowiness of it that I think was intended. That probably does come with practice, but for me, I wrote it in a careful way, and I probably got about 1.5 to 2 pages written.
 
@@ -49,9 +49,13 @@ Then just speak your mind. Say whatever you're thinking about. It could be your 
 
 It doesn't need to be a journal, and it doesn't need to be about what's happening right now. You don't even need to revisit it. But what comes out of it might surprise you, and it's always super interesting to read them back weeks or months after you recorded them.
 
-## What I get out of it
+## Why it works
 
-The value is in getting that stuff out of your mind so that in your day you can start fresh on new thoughts. You don't need to dwell on things you didn't realise were in your head but actually were. There's probably some really clever psychology behind all of that, about the things in your subconscious mind that you can let escape by talking about them, so that you can start free. I don't know what that's called, but that's the value I feel from this practice.
+The value is in getting that stuff out of your mind so that in your day you can start fresh on new thoughts. You don't need to dwell on things you didn't realise were in your head but actually were.
+
+There's research behind that feeling. Psychologists E. J. Masicampo and Roy Baumeister found that unfinished tasks keep pulling at your attention until you make a plan for them, and that simply writing the plan down was enough to quiet them (*Journal of Personality and Social Psychology*, 2011). That's the Slack messages and the emails from my first morning: once they're out of your head, they stop circling.
+
+Speaking counts too. Most of the research on putting feelings into words uses writing, but a 1994 study by Brian Esterling and colleagues compared writing with talking into a tape recorder, and the people who talked showed at least as much benefit (*Journal of Consulting and Clinical Psychology*). So if a pen is what stops you, a voice recorder is a fair swap.
 
 ---
 
