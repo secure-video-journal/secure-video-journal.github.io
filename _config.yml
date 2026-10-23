@@ -45,6 +45,13 @@ author:
   url: https://innerarc.me/
 logo: /assets/logo.png
 
+# Every post is signed by the team; the byline links to the About page.
+defaults:
+  - scope:
+      type: posts
+    values:
+      byline: The InnerArc team
+
 minima:
   hide_site_feed_link: true
   google_analytics: G-RZ0RTXS1PK

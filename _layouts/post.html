@@ -31,6 +31,12 @@ layout: base
         {% endfor %}
       </div>
       {%- endif %}
+      {%- if page.byline %}
+      <div class="force-inline post-authors">
+        <span itemprop="author" itemscope itemtype="http://schema.org/Organization">
+          <a class="p-author h-card" itemprop="url" href="{{ '/about/' | relative_url }}"><span itemprop="name">{{ page.byline }}</span></a></span>
+      </div>
+      {%- endif %}
     </div>
   </header>
 
