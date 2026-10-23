@@ -4,6 +4,7 @@ title: "Morning pages out loud: doing the practice by voice"
 subtitle: What changed when I stopped writing them and started talking
 date: 2026-03-04 10:00:00 +0100
 modified_date: 2026-10-23
+last_modified_at: 2026-10-23
 categories: reflection journaling
 published: true
 description: "Yes, you can do morning pages out loud. Speaking them drops the urge to make the page look good, so the thoughts come out more easily."
