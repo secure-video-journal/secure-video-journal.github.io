@@ -54,7 +54,7 @@ Tomorrow morning, before you look at your messages, open the recorder on your ph
 
 If you'd like a private place to keep those recordings, you can [start free on the web](https://innerarc.me/join) or [get the app](https://innerarc.me/app). Your entries are never used to train AI.
 
-More to read: [Why keep a journal?]({% post_url 2026-06-22-why-keep-a-journal %}) or [Some things only make sense later]({% post_url 2026-01-07-some-things-only-make-sense-later %}).
+More to read: [How to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %}) or [Some things only make sense later]({% post_url 2026-01-07-some-things-only-make-sense-later %}).
 
 ### Sources
 

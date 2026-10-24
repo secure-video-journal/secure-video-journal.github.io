@@ -51,6 +51,8 @@ defaults:
       type: posts
     values:
       byline: The InnerArc team
+      # Link-preview image for posts without their own; a post's `image:` overrides it.
+      image: /assets/img/default-share.jpg
 
 minima:
   hide_site_feed_link: true
