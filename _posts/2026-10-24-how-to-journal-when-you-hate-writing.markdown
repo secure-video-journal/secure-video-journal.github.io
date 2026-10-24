@@ -20,7 +20,7 @@ What worked instead was already sitting in front of me. I work from home and my 
 
 Sitting down in the morning with a pen in your hand and a blank page in front of you is hard. Something about that big empty white space makes it difficult to start, and it's a hurdle you have to get over every time you sit down.
 
-Anything you want to make a habit has a better chance of sticking when there are fewer hurdles in the way. The psychologist Wendy Wood makes this case in [*Good Habits, Bad Habits*](https://us.macmillan.com/books/9781250159076/goodhabitsbadhabits) (2019), where her research shows that small amounts of friction do a lot to decide which habits stick and which fade. Finding the notepad and checking the pen works are exactly that kind of friction, and opening a recorder on a device you're already holding removes them.
+Anything you want to make a habit has a better chance of sticking when there are fewer hurdles in the way. The psychologist Wendy Wood makes this case in [*Good Habits, Bad Habits*](https://openlibrary.org/isbn/9781250159076) (2019), where her research shows that small amounts of friction do a lot to decide which habits stick and which fade. Finding the notepad and checking the pen works are exactly that kind of friction, and opening a recorder on a device you're already holding removes them.
 
 ## The filter between thought and ink
 
@@ -52,5 +52,5 @@ More to read: [Morning pages out loud]({% post_url 2026-03-04-morning-pages-prac
 
 ### Sources
 
-- Wood, W. (2019). *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick*. Farrar, Straus and Giroux. [Publisher](https://us.macmillan.com/books/9781250159076/goodhabitsbadhabits)
+- Wood, W. (2019). *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick*. Farrar, Straus and Giroux. [Open Library](https://openlibrary.org/isbn/9781250159076)
 - Seligman, M. E. P., Steen, T. A., Park, N. and Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. *American Psychologist*, 60(5), 410-421. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16045394/)
