@@ -62,6 +62,18 @@ None of this requires fixing the past or turning hard experiences into lessons o
 
 **Return again** after three months, and then after six months or a year. By then you can see whether the event changed your life at all, and in which direction. That tells you whether it deserved the energy you gave it and how you might respond next time, so a similar moment stresses you less.
 
+### What to ask yourself when you reread
+
+When you open an old entry, these questions help you get something from it:
+
+- What was I worried about, and did it happen?
+- What did I think mattered most then, and does it still?
+- What has changed since I wrote this, in my life or in how I see it?
+- Would I respond the same way today?
+- What would I tell the person who wrote this?
+
+You don't need to answer all of them. One honest answer, added as a short note or a new entry, is enough, and it gives the next reread something to build on.
+
 If you're trying to change a habit, look back once a week instead. A week is a short feedback loop, so you can make a small change, see how it went and adjust again the week after.
 
 Even when no insight comes, rereading an entry once the emotion has gone is a release, and the event no longer has to sit with you.
