@@ -20,19 +20,19 @@ That's easiest to see with moments that felt painful or confusing when they happ
 
 ## The pressure to make sense of things straight away
 
-We're often encouraged to process an experience quickly, pull a lesson out of it and move on. Some experiences don't resolve that neatly. If you force a lesson out of them too early, you tend to flatten them into something smaller and less true than they were.
+We're often encouraged to process an experience quickly, pull a lesson out of it and move on. Some experiences don't resolve that neatly. If you force a lesson out of a bad week while you're still in it, the lesson is usually too neat and a bit wrong.
 
 That doesn't mean you're reflecting badly. Some things can't be understood while they're still happening, because you have the feeling and none of what comes after it. They need time before you can see what they connect to or what they set in motion, and returning to them later gives you room to see what you couldn't see then.
 
 ## What distance changes
 
-Time changes your relationship to what happened. The emotion softens, and other experiences gather around the original moment, so it stops looking like an isolated event and starts to sit alongside everything that followed. With that added context, patterns appear because there's finally enough of the picture to see them.
+What happened doesn't change, but how you feel about it does, and usually you only notice when you read your own words back. The emotion softens, and months later that awful conversation is one entry among dozens, and next to the others it looks a lot smaller. With that added context, patterns appear because there's finally enough of the picture to see them.
 
 Many of my old entries agonise over how I'd responded to someone, and at the time those thoughts ate me up. Rereading them now, I can see that how I'd responded made no difference, and I still have good friendships with those people.
 
 There's a name for this. In a 2000 study in the *Journal of Personality and Social Psychology*, [Thomas Gilovich, Victoria Medvec and Kenneth Savitsky](https://pubmed.ncbi.nlm.nih.gov/10707330/) described the spotlight effect: people consistently overestimate how much others notice and remember their actions and blunders. In one of their experiments, students who wore an embarrassing T-shirt into a room of their peers expected far more people to notice it than actually did.
 
-Something else tends to shift as well. You become more forgiving of the person you were and the information they were missing, and you hold what happened less tightly.
+Something else tends to shift as well. You go easier on the person who wrote it. They didn't know what you know now, and they were doing their best with what they had.
 
 Distance also shows you progress you can't see day to day, because each day looks a lot like the one before. This summer I sat under a tree on a hot afternoon with one of my oldest journals, dog-eared and bent, and found the line "I'm going to become a triathlete", written when I was very unfit. I'd forgotten writing it, and these days I race a few times a year. An old entry gives you the before picture that daily life hides.
 
