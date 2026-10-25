@@ -1,68 +1,74 @@
 ---
 layout: post
 title: "Should you reread old journal entries?"
-subtitle: What I found when I sat under a tree with a journal from a few years ago
+subtitle: Why some entries only make sense months later, and how to go back to them
 date:   2026-01-07 10:00:00 +0100
 modified_date: 2026-10-25
 last_modified_at: 2026-10-25
 categories: reflection
 tags: journaling rereading perspective progress
 published: true
-description: "Yes. Rereading old journal entries shows progress you miss day to day and puts old worries in proportion. Here's how often to look back."
+description: "Yes. Old entries show progress you miss day to day and put past worries in proportion. Here's why distance helps and how often to look back."
 image: /assets/img/some-things-only-make-sense-later.jpg
 ---
 
 ![Abstract image suggesting depth, time, and perspective](/assets/img/some-things-only-make-sense-later.jpg)
 
-Yes, you should reread your old journal entries, because they show you progress that's invisible from one day to the next. They also show you how much of what once felt urgent or painful turned out to matter very little, and that's a relief worth having.
+Yes, you should reread your old journal entries, because a lot of what journaling gives you only shows up when you come back to what you wrote. Journaling helps with memory, with setting goals, with stress and with seeing your feelings more clearly, and much of that value builds up over time as entries accumulate and you return to them with some distance.
 
-## An afternoon under a tree
+That's easiest to see with moments that felt painful or confusing when they happened. At the time you only have the emotion of being inside them. Months later you often see the same moments differently, because time has added context that wasn't available before, and that shift rarely happens unless you go back and look.
 
-This past summer I dropped one of my kids at drama club and found myself with two free hours. I'd brought one of my oldest journals with me, dog-eared and bent, with my kids' scribbles and drawings across it. It was a scorching day, so I went to a park, found a tree with a bit of shade and sat down to read it through.
+## The pressure to make sense of things straight away
 
-I was blown away by how far I'd come. The entries were from two or three years earlier, when I was very unfit, slightly overweight and full of goals. One was to find a training habit I could sustain and lose some weight, and the last line of one entry was "I'm going to become a triathlete." To be honest, I'd forgotten I ever wrote it.
+We're often encouraged to process an experience quickly, pull a lesson out of it and move on. Some experiences don't resolve that neatly. If you force a lesson out of them too early, you tend to flatten them into something smaller and less true than they were.
 
-Since then I've done two or three triathlons a year. This year my goal was a top-10 finish in a sprint triathlon, and I just missed out, coming 13th out of around 300. I'm proud of that, because the person who wrote that entry was only hoping to take part. This past year I followed structured plans and trained like a triathlete.
+That doesn't mean you're reflecting badly. Some things can't be understood while they're still happening, because you have the feeling and none of what comes after it. They need time before you can see what they connect to or what they set in motion, and returning to them later gives you room to see what you couldn't see then.
 
-Another goal in the same journal was to build a business. Here I am writing for InnerArc, software that is everything I wanted it to be when I first dreamt it up.
+## What distance changes
 
-When I wrote them down, both goals were closer to wishes. I had no plan for either, and I just wanted them on paper. You don't notice that kind of progress day to day, or even month to month, because each day looks a lot like the one before. An old journal gives you the before picture.
+Time changes your relationship to what happened. The emotion softens, and other experiences gather around the original moment, so it stops looking like an isolated event and starts to sit alongside everything that followed. With that added context, patterns appear because there's finally enough of the picture to see them.
 
-Seeing it matters more than you'd expect. Teresa Amabile and Steven Kramer make this case in [*The Progress Principle*](https://openlibrary.org/isbn/9781422198575) (2011), built on daily diaries kept by people at work: the days people felt most motivated were the days they saw themselves making progress, even small progress.
+Many of my old entries agonise over how I'd responded to someone, and at the time those thoughts ate me up. Rereading them now, I can see that how I'd responded made no difference, and I still have good friendships with those people.
 
-We also underestimate how much we'll enjoy looking back. In a 2014 study in *Psychological Science*, [Ting Zhang and colleagues](https://doi.org/10.1177/0956797614542274) asked people to record ordinary moments from their present lives and to predict how interesting they'd find them later. When those people rediscovered their records months on, they found them far more interesting and meaningful than they had predicted.
+There's a name for this. In a 2000 study in the *Journal of Personality and Social Psychology*, [Thomas Gilovich, Victoria Medvec and Kenneth Savitsky](https://pubmed.ncbi.nlm.nih.gov/10707330/) described the spotlight effect: people consistently overestimate how much others notice and remember their actions and blunders. In one of their experiments, students who wore an embarrassing T-shirt into a room of their peers expected far more people to notice it than actually did.
 
-## The skills I was sure I needed
+Something else tends to shift as well. You become more forgiving of the person you were and the information they were missing, and you hold what happened less tightly.
 
-The funniest entry I've found is about ten years old, from before journaling was a habit for me. I was writing about my career and the things I needed to learn, and two of them were jQuery and CodeIgniter, a PHP framework.
+Distance also shows you progress you can't see day to day, because each day looks a lot like the one before. This summer I sat under a tree on a hot afternoon with one of my oldest journals, dog-eared and bent, and found the line "I'm going to become a triathlete", written when I was very unfit. I'd forgotten writing it, and these days I race a few times a year. An old entry gives you the before picture that daily life hides.
 
-I've spent perhaps a few months of my whole career working in PHP. jQuery lasted a little longer, but I haven't used it in about seven years, since React replaced it. Back then both felt very important. That entry makes me laugh, and it's a useful reminder that what feels important often isn't, and only time shows you which is which.
+We also underestimate how much we'll value looking back. In a 2014 study in *Psychological Science*, [Ting Zhang and colleagues](https://doi.org/10.1177/0956797614542274) asked people to record ordinary moments from their present lives and to predict how interesting they'd find them later. When those people rediscovered their records months on, they found them far more interesting and meaningful than they had predicted.
 
-## Looking back every week
+## Why most journals let old entries sink
 
-During the COVID lockdown I journaled more consistently than I ever have. I'm an introvert and I wanted to become more assertive, so each morning I set intentions for the day and each evening I wrote about how it had gone. At the end of the week I read those entries back as a weekly retrospective, and I used it to adjust the following week, setting better intentions and watching myself more closely.
+Most journals are built around chronology. Each entry follows the last, and over time the journal becomes a long sequence. That works well for recording what happened and less well for returning to what still matters. As entries pile up, the older ones sink, and the difficult days are kept but rarely reread.
 
-That weekly look-back worked better than anything else I tried, and it's where InnerArc's weekly summaries came from. I wrote about the two daily prompts I used then in [How to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %}).
+There's no obvious place to come back and write what you understand now, and nothing connects similar experiences, so themes stay scattered across separate entries. Nothing tells you when it might be worth looping back to something older once distance has done its work.
 
-## Worries that only make sense later
+Most journals are good at helping you in the moment, and that's where they stop.
 
-Many of my old entries are about something that troubled me at the time, usually how I'd responded to someone. We all know the feeling of wishing we'd said something different or behaved differently, and those thoughts ate me up. Rereading them now, I can see how little they mattered. I still have good friendships with those people, and whatever I wished I'd said made no difference to how they saw me.
+What worked best for me was a habit of looking back on purpose. During the COVID lockdown I wrote each morning and evening and read the week's entries back at the weekend to adjust the next week, and that weekly look-back worked better than anything else I tried (I wrote about it in [How to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %})).
 
-Psychologists have a name for this. In a 2000 study in the *Journal of Personality and Social Psychology*, [Thomas Gilovich, Victoria Medvec and Kenneth Savitsky](https://pubmed.ncbi.nlm.nih.gov/10707330/) described the spotlight effect: people consistently overestimate how much others notice and remember their actions and blunders. In one of their experiments, students who wore an embarrassing T-shirt into a room of their peers expected far more people to notice it than actually did.
+That's where InnerArc's weekly summary came from, and it does that look-back for you. InnerArc also links related entries and surfaces recurring themes over time, so an older entry can come back to you when it's relevant.
 
-In those cases I gained no great insight in the months between. Time simply passed, and my life was no worse for what had happened.
+## How to reread your old entries
 
-## How often to reread
+None of this requires fixing the past or turning hard experiences into lessons on demand. It only asks you to go back.
 
-It depends on what's going on in your life. If you're trying to change a habit, look back once a week. A week is a short feedback loop, so you can make a small change, see how it went and adjust again the week after.
+**Write honestly** when something feels unresolved, such as a disappointment or a conversation that didn't sit right. Mark the entry so you can find it again, with an asterisk in a notebook or a note at the start of a typed or recorded entry.
 
-For entries about something that troubled you, however minor, add a mark so you can find them again, such as an asterisk in a notebook or a note at the start of a typed or recorded entry. Reread them after a month, again after three months, and then after six months or a year. By then you can see whether the event changed your life at all, and in which direction. That tells you whether it deserved the energy you gave it and how you might respond next time, so a similar moment stresses you less.
+**Leave it unfinished.** Resist the urge to make sense of it straight away.
+
+**Return after a month.** Notice what feels different and what you understand now that you couldn't then.
+
+**Return again** after three months, and then after six months or a year. By then you can see whether the event changed your life at all, and in which direction. That tells you whether it deserved the energy you gave it and how you might respond next time, so a similar moment stresses you less.
+
+If you're trying to change a habit, look back once a week instead. A week is a short feedback loop, so you can make a small change, see how it went and adjust again the week after.
 
 Even when no insight comes, rereading an entry once the emotion has gone is a release, and the event no longer has to sit with you.
 
 ## When to wait
 
-Rereading isn't always the right move. If an entry is about something still raw, such as a recent loss or a situation that hasn't settled, reading it again can pull you back into the feeling before you've had any distance from it. That's what the intervals are for, so leave it until you can read it calmly. If an old entry still upsets you a long time later, it may be worth talking it through with someone you trust or a professional, instead of rereading it alone.
+Rereading isn't always the right move. If an entry is about something still raw, such as a recent loss or a situation that hasn't settled, reading it again can pull you back into the feeling before you've had any distance from it. Leave it until you can read it calmly. If an old entry still upsets you a long time later, it may be worth talking it through with someone you trust or a professional, instead of rereading it alone.
 
 ---
 
@@ -74,6 +80,5 @@ More to read: [Morning pages out loud]({% post_url 2026-03-04-morning-pages-prac
 
 ### Sources
 
-- Amabile, T. and Kramer, S. (2011). *The Progress Principle: Using Small Wins to Ignite Joy, Engagement, and Creativity at Work*. Harvard Business Review Press. [Open Library](https://openlibrary.org/isbn/9781422198575)
 - Zhang, T., Kim, T., Brooks, A. W., Gino, F. and Norton, M. I. (2014). A "present" for the future: The unexpected value of rediscovery. *Psychological Science*, 25(10), 1851-1860. [DOI](https://doi.org/10.1177/0956797614542274)
 - Gilovich, T., Medvec, V. H. and Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. *Journal of Personality and Social Psychology*, 78(2), 211-222. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10707330/)
