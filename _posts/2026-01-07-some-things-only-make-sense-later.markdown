@@ -32,7 +32,7 @@ Many of my old entries agonise over how I'd responded to someone, and at the tim
 
 There's a name for this. In a 2000 study in the *Journal of Personality and Social Psychology*, [Thomas Gilovich, Victoria Medvec and Kenneth Savitsky](https://pubmed.ncbi.nlm.nih.gov/10707330/) described the spotlight effect: people consistently overestimate how much others notice and remember their actions and blunders. In one of their experiments, students who wore an embarrassing T-shirt into a room of their peers expected far more people to notice it than actually did.
 
-Something else tends to shift as well. You go easier on the person who wrote it. They didn't know what you know now, and they were doing their best with what they had.
+Something else tends to shift as well. You go easier on the person who wrote those old entries. They didn't know what you know now, and they were doing their best with what they had.
 
 Distance also shows you progress you can't see day to day, because each day looks a lot like the one before. This summer I sat under a tree on a hot afternoon with one of my oldest journals, dog-eared and bent, and found the line "I'm going to become a triathlete", written when I was very unfit. I'd forgotten writing it, and these days I race a few times a year. An old entry gives you the before picture that daily life hides.
 
