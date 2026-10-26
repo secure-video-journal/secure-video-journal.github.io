@@ -7,10 +7,14 @@ modified_date: 2026-10-26
 last_modified_at: 2026-10-26
 categories: reflection journaling
 published: true
-description: "Name a negative belief about yourself, then list real moments from your own life that contradict it. Here's how to do a memory inventory."
+description: "Correct a negative belief about yourself, then list real moments from your own life that contradict it. Here's how to do a memory inventory."
 ---
 
-A memory inventory is a journaling exercise for negative self-beliefs: you write down a belief you hold about yourself, then list real moments from your own life that contradict it. Most of us carry a quiet story about who we are, sometimes as a sentence (*I'm too quiet*) and more often as an assumption that shapes our decisions without us noticing, and this exercise checks that story against what actually happened.
+A memory inventory is a journaling exercise for correcting negative self-beliefs: you write down a belief you hold about yourself, then list real moments from your own life that contradict it.
+
+Most of us carry a quiet story about who we are. Sometimes it's a sentence, like *I'm too quiet* or *I'm bad with money*. More often it's an assumption working in the background, deciding whether you speak up in a meeting or how early you leave a party. It feels like plain fact, so it rarely gets questioned, and over the years it can shrink what you're willing to try. A memory inventory checks that story against what actually happened.
+
+It helps most when you're stuck in a familiar bit of self-criticism, when you're avoiding something because of how you expect to handle it, or when the same doubt keeps turning up in different parts of your life.
 
 There are no affirmations involved. The aim is to remember your past accurately, including the parts the story left out.
 
@@ -33,10 +37,6 @@ That pattern is well documented. In a 2001 review in the *Review of General Psyc
 A memory inventory pulls those background moments forward so the evidence is balanced again. Cognitive therapists use a version of this: [Christine Padesky](https://doi.org/10.1002/cpp.5640010502) described a "positive data log", where you record everyday evidence that contradicts a negative core belief. This is a private, journal version of that. It isn't therapy, and if a belief comes from something heavier, talking to a professional is the right move.
 
 Seeing the moments written down or spoken aloud tends to make the pattern clearer than turning them over in your head ever does.
-
-## When to try it
-
-It helps most when you're stuck in a familiar bit of self-criticism, when you're avoiding something because of how you expect to handle it, or when the same doubt keeps turning up in different parts of your life.
 
 ## How to do a memory inventory
 
