@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -22,15 +24,29 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: Check post SEO rules
+        run: ruby scripts/check_posts.rb "${{ github.event.before }}"
+
       - name: Build Jekyll site
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
       - name: Commit and push docs
+        id: publish
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/
-          git diff --quiet --cached || git commit -m "Build Jekyll site"
+          if git diff --quiet --cached; then
+            echo "built=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Build Jekyll site"
+            echo "built=true" >> "$GITHUB_OUTPUT"
+          fi
           git push
+
+      - name: Notify IndexNow of changed pages
+        if: steps.publish.outputs.built == 'true'
+        continue-on-error: true
+        run: scripts/indexnow.sh HEAD
