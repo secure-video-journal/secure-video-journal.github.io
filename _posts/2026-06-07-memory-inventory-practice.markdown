@@ -73,7 +73,7 @@ If it feels flat the first time, give it another go in a few weeks, because the 
 
 Some people find this easier spoken aloud, and I'm one of them. Writing puts a filter between the thought and the page: part of you is checking the spelling and the grammar and how it reads, and your hand never keeps up with your head. For most journaling that's a small cost. Here it matters more, because you're digging for memories, and one tends to lead to the next when you're talking freely. Speaking goes at the speed of thought, so you can follow a memory where it goes instead of stopping to write the last one down.
 
-It's also easier to start. Open a recorder on your phone, find somewhere you're alone, and begin by saying the belief out loud, something like "I've always thought of myself as shy." Then walk through your time window a month or a season at a time and say each moment as it comes back. There's no page to fill and nothing to spell, and if you get stuck you can sit quietly until the next memory turns up.
+Open a recorder on your phone and start. There's no page to fill and nothing to spell, and if you get stuck you can sit quietly until the next memory turns up.
 
 Listening back is where the voice version pays off most. Your voice carries hesitation and certainty that don't make it onto the page, and when you play a recording a few weeks later those cues often show which beliefs still hold and which have started to give. If you've never journaled by voice, there's more on [how to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %}) and on doing [morning pages out loud]({% post_url 2026-03-04-morning-pages-practice %}).
 
