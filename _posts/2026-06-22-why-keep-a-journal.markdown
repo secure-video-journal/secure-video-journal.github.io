@@ -61,8 +61,7 @@ Those answers rarely arrive in the moment. They tend to appear only after enough
 
 One way people do this is by periodically taking stock of past entries to notice what their own experience keeps pointing toward. Practices like a memory inventory use journaling as evidence, helping people recalibrate how they see themselves based on what they’ve actually lived.
 
-If you’re interested in that approach, you can read more here:  
-[Memory inventory: a practice](https://blog.innerarc.me/reflection/journaling/2026/06/07/memory-inventory-practice.html)
+If you’re interested in that approach, there’s a step-by-step guide to [a memory inventory for negative self-beliefs]({% post_url 2026-06-07-memory-inventory-practice %}).
 
 ### *Why some people prefer audio or video journaling*
 
