@@ -24,7 +24,7 @@ The inventory is a collection of specific moments from your past, chosen because
 
 It's a different thing from a gratitude list, and it doesn't ask you to play down real failures. You keep the bad moments and add back the ones you'd forgotten. You won't come out of it believing you're perfect, and that's fine, because the point is to stop treating half the picture as the whole of it.
 
-It's also harder than most journaling. [Morning pages]({% post_url 2026-03-04-morning-pages-practice %}) are close to automatic writing, and a morning intention or an evening recap takes a few minutes, but this one asks you to look back and think hard. To be honest I've struggled with it, and it's still the practice that has given me the most, which is partly why I don't do it often.
+It's also harder than most journaling. [Morning pages]({% post_url 2026-03-04-morning-pages-practice %}) are close to automatic writing, and a morning intention or an evening recap takes a few minutes, but this one asks you to look back and think hard. To be honest I've struggled with it, but it's the practice that has given me the most. A morning entry clears my head for the day, while a memory inventory has shifted how I see myself in a way that lasts. It's hard enough that I only come back to it every few weeks, and that turns out to be often enough.
 
 ## Why the bad moments stick
 
@@ -71,7 +71,13 @@ If it feels flat the first time, give it another go in a few weeks, because the 
 
 ## Doing it out loud
 
-Some people find this easier spoken aloud. Your voice carries hesitation and certainty that don't make it onto the page, and when you listen back later those cues often show which beliefs still hold and which have started to give.
+Some people find this easier spoken aloud, and I'm one of them. Writing puts a filter between the thought and the page: part of you is checking the spelling and the grammar and how it reads, and your hand never keeps up with your head. For most journaling that's a small cost. Here it matters more, because you're digging for memories, and one tends to lead to the next when you're talking freely. Speaking goes at the speed of thought, so you can follow a memory where it goes instead of stopping to write the last one down.
+
+It's also easier to start. Open a recorder on your phone, find somewhere you're alone, and begin by saying the belief out loud, something like "I've always thought of myself as shy." Then walk through your time window a month or a season at a time and say each moment as it comes back. There's no page to fill and nothing to spell, and if you get stuck you can sit quietly until the next memory turns up.
+
+Talking holds up as well as writing for this kind of reflection. In a [1994 study by Brian Esterling and colleagues](https://pubmed.ncbi.nlm.nih.gov/8034815/), people who talked about stressful experiences into a tape recorder showed at least as much benefit as those who wrote about them.
+
+Listening back is where the voice version pays off most. Your voice carries hesitation and certainty that don't make it onto the page, and when you play a recording a few weeks later those cues often show which beliefs still hold and which have started to give. If you've never journaled by voice, there's more on [how to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %}) and on doing [morning pages out loud]({% post_url 2026-03-04-morning-pages-practice %}).
 
 ## How often to come back to it
 
@@ -89,4 +95,5 @@ More to read: [Why Keep a Journal?]({% post_url 2026-06-22-why-keep-a-journal %}
 
 - Baumeister, R. F., Bratslavsky, E., Finkenauer, C. and Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology*, 5(4), 323-370. [DOI](https://doi.org/10.1037/1089-2680.5.4.323)
 - Boothby, E. J., Cooney, G., Sandstrom, G. M. and Clark, M. S. (2018). The liking gap in conversations: Do people like us more than we know? *Psychological Science*, 29(11), 1742-1756. [DOI](https://doi.org/10.1177/0956797618783714)
+- Esterling, B. A., Antoni, M. H., Fletcher, M. A., Margulies, S. and Schneiderman, N. (1994). Emotional disclosure through writing or speaking modulates latent Epstein-Barr virus antibody titers. *Journal of Consulting and Clinical Psychology*, 62(1), 130-140. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8034815/)
 - Padesky, C. A. (1994). Schema change processes in cognitive therapy. *Clinical Psychology and Psychotherapy*, 1(5), 267-278. [DOI](https://doi.org/10.1002/cpp.5640010502)
