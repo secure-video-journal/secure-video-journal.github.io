@@ -59,17 +59,6 @@ Write them down without explaining or weighing them yet.
 
 **5. Revisit it later.** Come back after a few weeks and ask whether the belief still feels complete, and what a more accurate version would sound like. Swapping *shy* for *outgoing* would be another half-truth. Something like *I'm quiet in some rooms and I talk easily when I care about the subject* is much closer to the picture my list gave me.
 
-## Journaling prompts for negative self-beliefs
-
-If the moments won't come, these prompts can shake a few loose. Answer them about the belief you named in step 1.
-
-- When did you last do the thing you say you can't do?
-- What would a friend who knows you well say about this belief?
-- What's a compliment you brushed off, and what if it was accurate?
-- Which moment from the last year would surprise the version of you that holds this belief?
-- Where in your life does the belief not show up at all?
-- If a friend said this about themselves, what evidence would you point them to?
-
 ## Give it a quiet space
 
 This exercise needs somewhere quiet where nobody is judging you, including you, so I wouldn't try it in the living room with the TV on. It can bring up hurtful memories, because the bad moments are why the belief exists, and memory is imperfect, so the good times can take real digging. Go gently.
