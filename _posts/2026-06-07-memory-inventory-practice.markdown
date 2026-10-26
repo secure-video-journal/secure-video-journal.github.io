@@ -75,8 +75,6 @@ Some people find this easier spoken aloud, and I'm one of them. Writing puts a f
 
 It's also easier to start. Open a recorder on your phone, find somewhere you're alone, and begin by saying the belief out loud, something like "I've always thought of myself as shy." Then walk through your time window a month or a season at a time and say each moment as it comes back. There's no page to fill and nothing to spell, and if you get stuck you can sit quietly until the next memory turns up.
 
-Talking holds up as well as writing for this kind of reflection. In a [1994 study by Brian Esterling and colleagues](https://pubmed.ncbi.nlm.nih.gov/8034815/), people who talked about stressful experiences into a tape recorder showed at least as much benefit as those who wrote about them.
-
 Listening back is where the voice version pays off most. Your voice carries hesitation and certainty that don't make it onto the page, and when you play a recording a few weeks later those cues often show which beliefs still hold and which have started to give. If you've never journaled by voice, there's more on [how to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %}) and on doing [morning pages out loud]({% post_url 2026-03-04-morning-pages-practice %}).
 
 ## How often to come back to it
@@ -95,5 +93,4 @@ More to read: [Why Keep a Journal?]({% post_url 2026-06-22-why-keep-a-journal %}
 
 - Baumeister, R. F., Bratslavsky, E., Finkenauer, C. and Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology*, 5(4), 323-370. [DOI](https://doi.org/10.1037/1089-2680.5.4.323)
 - Boothby, E. J., Cooney, G., Sandstrom, G. M. and Clark, M. S. (2018). The liking gap in conversations: Do people like us more than we know? *Psychological Science*, 29(11), 1742-1756. [DOI](https://doi.org/10.1177/0956797618783714)
-- Esterling, B. A., Antoni, M. H., Fletcher, M. A., Margulies, S. and Schneiderman, N. (1994). Emotional disclosure through writing or speaking modulates latent Epstein-Barr virus antibody titers. *Journal of Consulting and Clinical Psychology*, 62(1), 130-140. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8034815/)
 - Padesky, C. A. (1994). Schema change processes in cognitive therapy. *Clinical Psychology and Psychotherapy*, 1(5), 267-278. [DOI](https://doi.org/10.1002/cpp.5640010502)
