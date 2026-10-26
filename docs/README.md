@@ -63,6 +63,21 @@ bundle exec jekyll build
 
 This outputs the static site to `docs/`.
 
+### Post rules (checked before every deploy and on pull requests)
+
+`scripts/check_posts.rb` blocks the deploy when a published post:
+
+- has no `title:` or `description:` (the description is the Google snippet),
+- points `image:` at a file that doesn't exist,
+- is deleted or renamed, or has its `date:`, `categories:` or `permalink:` changed, since each of those changes its live URL,
+- is edited without bumping `last_modified_at:` to the edit date, which is what tells Google to recrawl it.
+
+It also warns about descriptions outside 50–160 characters and posts without their own `image:`. Run it locally with `ruby scripts/check_posts.rb origin/main`.
+
+### IndexNow
+
+After each build the deploy sends the changed pages to IndexNow (`scripts/indexnow.sh`), so Bing, and through it ChatGPT search and Copilot, picks them up within minutes. The key file `9649693995727aabbb80660344b54caf.txt` must stay in the repo root. Google doesn't use IndexNow; it recrawls from the sitemap's `lastmod`.
+
 ---
 
 ## Project Structure
