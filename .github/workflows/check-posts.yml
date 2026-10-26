@@ -1,0 +1,25 @@
+name: Check posts
+
+on:
+  pull_request:
+    paths:
+      - "_posts/**"
+      - "_config.yml"
+      - "scripts/check_posts.rb"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Check post SEO rules
+        run: ruby scripts/check_posts.rb "${{ github.event.pull_request.base.sha }}"
