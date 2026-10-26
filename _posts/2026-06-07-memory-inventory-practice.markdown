@@ -1,122 +1,92 @@
 ---
 layout: post
-title: "Memory Inventory: a practice"
-subtitle: Using past evidence to recalibrate how you see yourself
+title: "Memory inventory: a journaling exercise for negative self-beliefs"
+subtitle: Write down the story you tell about yourself, then list the moments that prove it wrong
 date: 2026-06-07 10:00:00 +0100
+modified_date: 2026-10-26
+last_modified_at: 2026-10-26
 categories: reflection journaling
 published: true
-description: "A practical journaling exercise for revisiting past memories to challenge negative self-beliefs and build a more accurate self-picture."
+description: "Name a negative belief about yourself, then list real moments from your own life that contradict it. Here's how to do a memory inventory."
 ---
 
-Most of us carry a quiet story about who we are.
+A memory inventory is a journaling exercise for negative self-beliefs: you write down a belief you hold about yourself, then list real moments from your own life that contradict it. Most of us carry a quiet story about who we are, sometimes as a sentence (*I'm too quiet*) and more often as an assumption that shapes our decisions without us noticing, and this exercise checks that story against what actually happened.
 
-Sometimes it’s explicit: *I struggle under pressure*, *I’m too quiet*, *I struggle socially*.  
-More often, it’s implicit, shaping how we approach decisions without us noticing.
+There are no affirmations involved. The aim is to remember your past accurately, including the parts the story left out.
 
-A memory inventory is a simple journaling practice designed to challenge those stories using evidence from your own life. Not through positive thinking or affirmations, but by revisiting real moments that contradict the version of yourself you’ve come to believe.
+## What goes into a memory inventory
 
-It’s less about rewriting the past, and more about remembering it accurately.
+The inventory is a collection of specific moments from your past, chosen because they push against a narrow or negative view of yourself, and each one has to be something that really happened.
 
----
+It's a different thing from a gratitude list, and it doesn't ask you to play down real failures. You keep the bad moments and add back the ones the story dropped. You won't come out of it believing you're perfect, and that's fine, because the point is to stop treating half the story as the whole of it.
 
-## What a memory inventory is (and isn’t)
+It's also harder than most journaling. [Morning pages]({% post_url 2026-03-04-morning-pages-practice %}) are close to automatic writing, and a morning intention or an evening recap takes a few minutes, but this one asks you to look back and think hard. To be honest I've struggled with it, and it's still the practice that has given me the most, which is partly why I don't do it often.
 
-A memory inventory is a way of collecting specific past experiences, chosen deliberately to counter a narrow or negative self-view, and grounded in what actually happened rather than what you wish had happened.
+## Why the bad moments stick
 
-It is not a gratitude list, an affirmation exercise, or a way to minimise real failures or difficulties.
+The way other people see you is usually a long way from the way you see yourself, and it's your own view that decides how you act. In a 2018 study in *Psychological Science*, [Erica Boothby and colleagues](https://doi.org/10.1177/0956797618783714) paired up strangers for a conversation. Afterwards people consistently underestimated how much the other person liked them and enjoyed their company, and the shyer they were, the more they underestimated it.
 
-The goal isn’t to prove you’re perfect.  
-It’s to stop treating a partial story as the whole truth.
+I've labelled myself shy and introverted for years. When a moment comes up where I could speak up and I don't, I'm left thinking I should have, and that moment sticks far harder than any good memory, so I dwell on it and the story gets deeper. Meanwhile all the times I did speak up fade into the background.
 
-## Why this works
+That pattern is well documented. In a 2001 review in the *Review of General Psychology*, [Roy Baumeister and colleagues](https://doi.org/10.1037/1089-2680.5.4.323) found that bad events and negative feedback have a stronger, longer-lasting effect on us than good ones of the same size. Once a belief takes hold, you notice the memories that fit it and wave away the rest, until it feels like a fact simply because it's familiar.
 
-Our sense of self is built from memory, but memory is selective.
+A memory inventory pulls those background moments forward so the evidence is balanced again. Cognitive therapists use a version of this: [Christine Padesky](https://doi.org/10.1002/cpp.5640010502) described a "positive data log", where you record everyday evidence that contradicts a negative core belief. This is a private, journal version of that. It isn't therapy, and if a belief comes from something heavier, talking to a professional is the right move.
 
-When a belief about ourselves takes hold, we tend to notice memories that support it and forget or discount memories that don’t. Over time, the belief feels factual simply because it’s familiar.
+Seeing the moments written down or spoken aloud tends to make the pattern clearer than turning them over in your head ever does.
 
-A memory inventory works by doing the opposite. It deliberately surfaces moments that usually stay in the background. Not to override the negative story, but to rebalance the evidence.
+## When to try it
 
-Versions of this practice appear in cognitive behavioural therapy, narrative psychology, and reflective writing traditions. The shared idea is that our sense of self is shaped by selectively remembered experiences, and that changing which memories we foreground can change the story we tell about who we are.
-
-This exercise is a practical adaptation of that idea, designed to be done privately, without a clinical setting or prescribed framework.
-
-Seeing those moments written or spoken down often makes the pattern clearer in a way thinking alone doesn’t.
-
-## When to use this practice
-
-This exercise is especially useful when you feel stuck in a familiar self-criticism, you’re avoiding something because of how you expect yourself to handle it, or you notice the same doubt repeating across different situations.
-
-You don’t need to do it often. Once every few weeks is usually enough.
+It helps most when you're stuck in a familiar bit of self-criticism, when you're avoiding something because of how you expect to handle it, or when the same doubt keeps turning up in different parts of your life.
 
 ## How to do a memory inventory
 
-First, name the belief you want to examine.
+**1. Name the belief.** Pick one sentence that feels familiar, the kind you'd mutter to yourself, and nothing dramatic. Write it down exactly as it sounds in your head, for example *I'm shy and introverted*, *I'm bad at speaking up* or *I struggle in social situations*.
 
-Start with a single sentence that feels familiar, not dramatic. Write it down exactly as it appears in your head.
+**2. Choose a time window.** Pick a set period, such as the last year or one chapter of your life, so you're searching real weeks and months instead of vague impressions.
 
-Examples:
-- *I’m shy and introverted.*
-- *I’m bad at speaking up.*
-- *I struggle in social situations.*
+**3. Collect concrete counter-examples.** List specific moments that contradict the belief. They should be things you did, with as much detail as you can remember. When I did this for *shy*, my list included:
 
-Next, choose a time window.
+- speaking up in a work meeting about something I believed in strongly
+- joking around with my family and extended family, joining in the banter and getting loud
+- long one-to-one conversations where I felt a real connection with the other person
+- joining a new cycling club and a climbing social full of people I'd never met, and happily talking away because we had something in common
 
-Pick a defined period such as the last year, the last five years, or a specific chapter of your life. This keeps the exercise grounded and prevents it from turning abstract.
+Write them down without explaining or weighing them yet.
 
-Then collect concrete counter-examples.
+**4. Sit with the pattern.** Read the list slowly and notice what surprised you and which examples are hard to argue with. If it feels uncomfortable, that's usually a good sign, because it's what an old story feels like when it starts to come loose.
 
-List specific memories that contradict the belief. These should be real events, tied to action rather than intention, and as detailed as you can make them.
+**5. Revisit it later.** Come back after a few weeks and ask whether the belief still feels complete, and what a more accurate version would sound like. Swapping *shy* for *outgoing* would be another half-truth. Something like *I'm quiet in some rooms and I talk easily when I care about the subject* is much closer to the picture my list gave me.
 
-For example, if the belief is *I’m shy and introverted*:
-- initiating a conversation when it mattered
-- speaking up despite discomfort
-- building or maintaining relationships over time
-- contributing thoughtfully in group settings, even if quietly
+## Give it a quiet space
 
-Don’t explain them yet. Just record them.
+This exercise needs somewhere quiet where nobody is judging you, including you, so I wouldn't try it in the living room with the TV on. It can bring up hurtful memories, because the bad moments are why the belief exists, and memory is imperfect, so the good times can take real digging. Go gently.
 
-Once you have a list, sit with the pattern.
+A few things to watch for:
 
-Read it slowly and notice what surprised you, what you were quick to dismiss, and which examples feel harder to argue with. Often, the discomfort here is the point. It’s the feeling of a story loosening.
+- Stay with specific moments and resist generalising.
+- Don't argue with yourself. Let the list do the work.
+- Don't rush to a conclusion, because the insight often turns up days later.
 
-Finally, revisit later.
+If it feels flat the first time, give it another go in a few weeks, because the effect builds each time you come back.
 
-Come back to the inventory after a few days or weeks and ask whether the original belief still feels complete, and what a more accurate version might sound like.
+## Doing it out loud
 
-This isn’t about replacing one label with another.  
-It’s about widening the frame.
+Some people find this easier spoken aloud. Your voice carries hesitation and certainty that don't make it onto the page, and when you listen back later those cues often show which beliefs still hold and which have started to give.
 
-## A few things to watch out for
+## How often to come back to it
 
-- Don’t generalise. Stay with specific moments.
-- Don’t argue with yourself. Let the evidence speak.
-- Don’t rush resolution. Insight often arrives later.
-
-If the exercise feels flat, that’s fine. Its effect tends to accumulate rather than arrive all at once.
-
-## Doing this with audio or video
-
-Some people find this practice easier when spoken aloud.
-
-Talking through memories can surface tone, hesitation, or certainty that doesn’t appear on the page. When revisited later, those cues often make it clearer which beliefs still hold and which don’t.
-
-Audio or video journaling isn’t necessary, but for some people it reduces friction and makes the practice feel more natural.
-
-## How this fits with other forms of journaling
-
-A memory inventory isn’t meant to replace other practices.
-
-It works well alongside free-writing exercises like morning pages, regular reflection or check-ins, and intention-setting or review rituals.
-
-Think of it as a periodic recalibration, not a daily habit.
+You don't need to do this often. Once every few weeks is plenty, and it sits well alongside morning pages or a weekly review. Think of it as a recalibration you come back to when an old story starts getting loud again.
 
 ---
 
-## If this resonates
+Tomorrow, write down one sentence you believe about yourself and three moments from the last year that don't fit it.
 
-If you’re interested in how revisiting past moments can change perspective over time, you might also like:
+If you'd like a private place to keep an inventory and come back to it, you can [start free on the web](https://innerarc.me/join) or [get the app](https://innerarc.me/app). Your entries are never used to train AI.
 
-- [Why Keep a Journal?](https://blog.innerarc.me/journaling/self-growth/2026/06/22/why-keep-a-journal.html)
-- [Should you reread old journal entries?](https://blog.innerarc.me/reflection/2026/01/07/some-things-only-make-sense-later.html)
+More to read: [Why Keep a Journal?]({% post_url 2026-06-22-why-keep-a-journal %}) or [Should you reread old journal entries?]({% post_url 2026-01-07-some-things-only-make-sense-later %})
 
-If you want a private place to try this practice, [InnerArc](https://innerarc.me) is one option designed around reflection over time.
+### Sources
+
+- Baumeister, R. F., Bratslavsky, E., Finkenauer, C. and Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology*, 5(4), 323-370. [DOI](https://doi.org/10.1037/1089-2680.5.4.323)
+- Boothby, E. J., Cooney, G., Sandstrom, G. M. and Clark, M. S. (2018). The liking gap in conversations: Do people like us more than we know? *Psychological Science*, 29(11), 1742-1756. [DOI](https://doi.org/10.1177/0956797618783714)
+- Padesky, C. A. (1994). Schema change processes in cognitive therapy. *Clinical Psychology and Psychotherapy*, 1(5), 267-278. [DOI](https://doi.org/10.1002/cpp.5640010502)
