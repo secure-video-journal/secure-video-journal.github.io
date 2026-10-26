@@ -38,7 +38,9 @@ A memory inventory pulls those background moments forward so the evidence is bal
 
 Seeing the moments written down or spoken aloud tends to make the pattern clearer than turning them over in your head ever does.
 
-## How to do a memory inventory
+## How do you challenge a negative self-belief?
+
+Write the belief down, pick a stretch of time, and collect the moments from it that contradict the belief. Here's the full exercise, with the example from my own memory inventory for *shy*.
 
 **1. Name the belief.** Pick one sentence that feels familiar, the kind you'd mutter to yourself, and nothing dramatic. Write it down exactly as it sounds in your head, for example *I'm shy and introverted*, *I'm bad at speaking up* or *I struggle in social situations*.
 
@@ -56,6 +58,17 @@ Write them down without explaining or weighing them yet.
 **4. Sit with the pattern.** Read the list slowly and notice what surprised you and which examples are hard to argue with. If it feels uncomfortable, that's usually a good sign, because it's what an old belief feels like when it starts to come loose.
 
 **5. Revisit it later.** Come back after a few weeks and ask whether the belief still feels complete, and what a more accurate version would sound like. Swapping *shy* for *outgoing* would be another half-truth. Something like *I'm quiet in some rooms and I talk easily when I care about the subject* is much closer to the picture my list gave me.
+
+## Journaling prompts for negative self-beliefs
+
+If the moments won't come, these prompts can shake a few loose. Answer them about the belief you named in step 1.
+
+- When did you last do the thing you say you can't do?
+- What would a friend who knows you well say about this belief?
+- What's a compliment you brushed off, and what if it was accurate?
+- Which moment from the last year would surprise the version of you that holds this belief?
+- Where in your life does the belief not show up at all?
+- If a friend said this about themselves, what evidence would you point them to?
 
 ## Give it a quiet space
 
@@ -77,9 +90,13 @@ Open a recorder on your phone and start. There's no page to fill and nothing to 
 
 Listening back is where the voice version pays off most. Your voice carries hesitation and certainty that don't make it onto the page, and when you play a recording a few weeks later those cues often show which beliefs still hold and which have started to give. If you've never journaled by voice, there's more on [how to journal when you hate writing]({% post_url 2026-10-24-how-to-journal-when-you-hate-writing %}) and on doing [morning pages out loud]({% post_url 2026-03-04-morning-pages-practice %}).
 
-## How often to come back to it
+## Common questions
 
-You don't need to do this often. Once every few weeks is plenty, and it sits well alongside morning pages or a weekly review. Think of it as a recalibration you come back to when an old label starts getting loud again.
+**How often should you do a memory inventory?** Every few weeks is plenty. It sits well alongside morning pages or a weekly review, and it's worth coming back to whenever an old label starts getting loud again.
+
+**Is a memory inventory the same as affirmations?** No. Affirmations ask you to repeat something positive whether or not you believe it. A memory inventory only uses things that really happened, so the bad moments stay on the list too.
+
+**Can a memory inventory replace therapy?** No. It's a private journaling exercise based on a technique cognitive therapists use, and it works best for everyday self-criticism. If a belief is tied to something heavier, or it keeps you from living the way you want, talk to a professional.
 
 ---
 

@@ -74,6 +74,8 @@ When you open an old entry, these questions help you get something from it:
 
 You don't need to answer all of them. One honest answer, added as a short note or a new entry, is enough, and it gives the next reread something to build on.
 
+If rereading keeps turning up the same harsh verdict on yourself, try a [memory inventory]({% post_url 2026-06-07-memory-inventory-practice %}), a journaling exercise for negative self-beliefs that checks that verdict against what you've actually done.
+
 If you're trying to change a habit, look back once a week instead. A week is a short feedback loop, so you can make a small change, see how it went and adjust again the week after.
 
 Even when no insight comes, rereading an entry once the emotion has gone is a release, and the event no longer has to sit with you.
