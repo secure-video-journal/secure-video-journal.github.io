@@ -1,0 +1,24 @@
+name: Check posts
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-posts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Check SEO basics on posts
+        run: ruby .github/scripts/check_posts.rb origin/${{ github.base_ref }}

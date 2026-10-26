@@ -28,9 +28,24 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Commit and push docs
+        id: docs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/
-          git diff --quiet --cached || git commit -m "Build Jekyll site"
+          if ! git diff --quiet --cached; then
+            echo "changed=$(git diff --cached --name-only -- docs | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+            git commit -m "Build Jekyll site"
+          fi
           git push
+
+      # The key is public by design: IndexNow checks it against the file at
+      # https://blog.innerarc.me/<key>.txt. The wait lets GitHub Pages publish
+      # the new build before Bing comes to crawl it.
+      - name: Tell IndexNow which pages changed
+        if: steps.docs.outputs.changed != ''
+        run: |
+          sleep 120
+          ruby .github/scripts/indexnow.rb docs/sitemap.xml "$INDEXNOW_KEY" ${{ steps.docs.outputs.changed }}
+        env:
+          INDEXNOW_KEY: 2a5de179d937e786ac4253f1acc02e0f

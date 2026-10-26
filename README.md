@@ -63,6 +63,11 @@ bundle exec jekyll build
 
 This outputs the static site to `docs/`.
 
+### Search engines
+
+- Every pull request runs `.github/scripts/check_posts.rb`, which fails if a published post has no `description`, if its URL changes (renamed file, new date or categories), or if it was edited without a newer `last_modified_at`. The sitemap's `lastmod` comes from that field, and it is what tells Google to recrawl an edited post.
+- After each deploy, `.github/scripts/indexnow.rb` sends the pages that changed to IndexNow (Bing and the AI search built on it). Its key is public by design and lives in `2a5de179d937e786ac4253f1acc02e0f.txt` at the site root; don't delete that file.
+
 ---
 
 ## Project Structure
@@ -116,6 +121,8 @@ Your content here...
 | `date`       | Yes      | Publication date with timezone                   |
 | `categories` | No       | Space-separated categories for organization      |
 | `published`  | No       | Set to `false` to hide from production           |
+| `description` | Yes     | The search snippet, about 150 characters         |
+| `last_modified_at` | When edited | Date of the last real edit, e.g. `2026-10-26` |
 
 ### Markdown tips
 
