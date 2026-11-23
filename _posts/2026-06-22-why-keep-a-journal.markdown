@@ -23,9 +23,7 @@ Journaling doesn't make difficult emotions disappear, and it doesn't need to. Wh
 
 When something feels overwhelming, holding it all in your head adds to the pressure. Putting it into words, spoken or written, creates a little distance, and the feeling gets easier to sit with because you're no longer carrying it around on your own.
 
-There's research behind this. In a 1986 study in the *Journal of Abnormal Psychology*, [James Pennebaker and Sandra Beall](https://doi.org/10.1037/0021-843X.95.3.274) asked students to write for 15 minutes on four days. The ones who wrote about their deepest thoughts and feelings on an upsetting experience made fewer visits to the campus health centre in the following months than the ones who wrote about trivial topics. In a 2007 study in *Psychological Science*, [Matthew Lieberman and colleagues](https://doi.org/10.1111/j.1467-9280.2007.01916.x) found that putting a feeling into words reduced activity in the amygdala, the brain's alarm response, compared with not naming it.
-
-The effects are modest. When [Joanne Frattaroli](https://doi.org/10.1037/0033-2909.132.6.823) pooled about 146 studies in a 2006 meta-analysis in *Psychological Bulletin*, she found a small but real overall benefit from this kind of writing. A journal isn't therapy, and if something heavy keeps coming back, talking to a professional is the right move.
+There's research behind this. In a 1986 study, [James Pennebaker and Sandra Beall](https://doi.org/10.1037/0021-843X.95.3.274) asked students to write for 15 minutes on four days, and the ones who wrote about their deepest feelings on an upsetting experience went on to make fewer visits to the campus health centre than those who wrote about everyday topics. Later brain-imaging work by [Matthew Lieberman and colleagues](https://doi.org/10.1111/j.1467-9280.2007.01916.x) found that simply naming a feeling calms the brain's alarm response.
 
 ## Remembering what matters
 
@@ -82,6 +80,5 @@ More to read: [Memory inventory: a journaling exercise for negative self-beliefs
 
 ### Sources
 
-- Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. *Psychological Bulletin*, 132(6), 823-865. [DOI](https://doi.org/10.1037/0033-2909.132.6.823)
 - Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H. and Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science*, 18(5), 421-428. [DOI](https://doi.org/10.1111/j.1467-9280.2007.01916.x)
 - Pennebaker, J. W. and Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. *Journal of Abnormal Psychology*, 95(3), 274-281. [DOI](https://doi.org/10.1037/0021-843X.95.3.274)
