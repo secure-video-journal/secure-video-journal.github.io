@@ -19,11 +19,13 @@ My own reason is simple, to be honest. I want to better myself, to speak up more
 
 ## A place for how things feel
 
-Journaling doesn't make difficult emotions disappear, and it doesn't need to. What it can do is give those feelings somewhere to land.
+Journaling doesn't make difficult emotions disappear, and it doesn't need to. What it can do is give those feelings somewhere to land, and that's where a lot of its stress relief comes from.
 
-When something feels overwhelming, holding it all in your head adds to the pressure. Putting it into words, spoken or written, creates a little distance, and the feeling gets easier to sit with because you're no longer carrying it around on your own.
+When something is bothering you, it tends to loop. A tense conversation or a worry about work plays on repeat, with the same knot in your stomach each time, and holding it all in your head only adds to the pressure. Saying it out loud or writing it down breaks that loop, because putting an experience into words forces you to give it an order: what happened, and how it made you feel. Once it has a beginning and an end, your mind has less reason to keep circling back to it.
 
-There's research behind this. In a 1986 study, [James Pennebaker and Sandra Beall](https://doi.org/10.1037/0021-843X.95.3.274) asked students to write for 15 minutes on four days, and the ones who wrote about their deepest feelings on an upsetting experience went on to make fewer visits to the campus health centre than those who wrote about everyday topics. Later brain-imaging work by [Matthew Lieberman and colleagues](https://doi.org/10.1111/j.1467-9280.2007.01916.x) found that simply naming a feeling calms the brain's alarm response.
+Getting it out also puts a little space between you and the event. While it's only in your head, you're inside it. Once it's on a page or in a recording, it becomes something you can look at from the outside, a bit like listening to a friend describe their problem, and from there it's much easier to see which parts really matter. You don't have to solve anything. Often the feeling simply gets easier to sit with, because you're no longer carrying it around on your own. On my low days, that's usually what takes the edge off.
+
+Psychologists have studied this for decades. In a 1986 study, [James Pennebaker and Sandra Beall](https://doi.org/10.1037/0021-843X.95.3.274) asked students to write for 15 minutes on four days, and the ones who wrote about their deepest feelings on an upsetting experience went on to make fewer visits to the campus health centre than those who wrote about everyday topics. More recently, [Ethan Kross and Ozlem Ayduk](https://doi.org/10.1177/0963721411408883) have shown that stepping back from a bad experience, and looking at it the way an observer would, helps people make sense of it without getting swept up in the same emotions all over again.
 
 ## Remembering what matters
 
@@ -80,5 +82,5 @@ More to read: [Memory inventory: a journaling exercise for negative self-beliefs
 
 ### Sources
 
-- Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H. and Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science*, 18(5), 421-428. [DOI](https://doi.org/10.1111/j.1467-9280.2007.01916.x)
+- Kross, E. and Ayduk, O. (2011). Making meaning out of negative experiences by self-distancing. *Current Directions in Psychological Science*, 20(3), 187-191. [DOI](https://doi.org/10.1177/0963721411408883)
 - Pennebaker, J. W. and Beall, S. K. (1986). Confronting a traumatic event: Toward an understanding of inhibition and disease. *Journal of Abnormal Psychology*, 95(3), 274-281. [DOI](https://doi.org/10.1037/0021-843X.95.3.274)
